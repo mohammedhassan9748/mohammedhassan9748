@@ -39,14 +39,14 @@
   - Studied Adaptive AUTOSAR, including its history, platform architecture, application types, execution and state management, configuration updates, startup sequences, and relevant POSIX APIs.
 
 ## 🚀 **Projects:**
+- **[Student Management System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%202)** 
+  - A versatile application developed in C for managing student records using a FIFO data structure, with a comprehensive analysis of the codebase and functionalities.
+  - 
 - **[Case Study: Pressure Controller System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%201)** 
   - Examines a pressure controller system designed to alert the cabin crew when cabin pressure exceeds 20 bars with an alarm duration of 60 seconds and optional tracking of measured values.
  
 - **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
   - Implemented motor power and speed control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
-
-- **[Student Management System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%202)** 
-  - A versatile application developed in C for managing student records using a FIFO data structure, with a comprehensive analysis of the codebase and functionalities.
 
 - **[CAN Protocol Case Study](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/CAN%20Protocol/Case%20Study%204%20_%20CANoe)** 
   - Detailed case study of CAN protocol simulations using CANoe.
