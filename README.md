@@ -41,6 +41,9 @@
 ## 🚀 **Projects:**
 - **[Case Study: Pressure Controller System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%201)** 
   - Examines a pressure controller system designed to alert the cabin crew when cabin pressure exceeds 20 bars with an alarm duration of 60 seconds and optional tracking of measured values.
+ 
+- **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
+  - Implemented motor power and speed control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
 
 - **[Student Management System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%202)** 
   - A versatile application developed in C for managing student records using a FIFO data structure, with a comprehensive analysis of the codebase and functionalities.
@@ -53,10 +56,6 @@
 
 - **[AUTOSAR Implementation](https://github.com/mohammedhassan9748/AUTOSAR)** 
   - Implementation and study of Classical and Adaptive AUTOSAR architectures and components.
- 
-- **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
-- Implemented motor control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
-- Includes Atmel Studio code and project illustration video.
 
 ## 💼 **Experience:**
 - **Siemens Industrial | Automation Engineer Intern** (Certificate) Jul 2023 - Sep 2023
