@@ -12,8 +12,8 @@
 ## 💻 **Tech Stack:**
 - **Languages:** ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - **Frameworks & Libraries:** ![STL](https://img.shields.io/badge/-STL-00599C?logo=cpp&logoColor=white)
-- **Tools:** ![MATLAB](https://img.shields.io/badge/-MATLAB-E74C3C?logo=matlab&logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-E74C3C?logo=matlab&logoColor=white) ![GNU](https://img.shields.io/badge/-GNU-000000?logo=gnu&logoColor=white) ![GDB](https://img.shields.io/badge/-GDB-000000?logo=gdb&logoColor=white)
-- **Technologies:** ![AVR](https://img.shields.io/badge/-AVR-00599C?logo=arduino&logoColor=white) ![ARM Cortex](https://img.shields.io/badge/-ARM%20Cortex%20M3%2F4-00599C?logo=arm&logoColor=white) ![RTOS](https://img.shields.io/badge/-RTOS-00599C?logo=linux&logoColor=white) ![CAN Protocol](https://img.shields.io/badge/-CAN%20Protocol-00599C?logo=c&logoColor=white) ![Classical AUTOSAR](https://img.shields.io/badge/-Classical%20AUTOSAR-00599C?logo=autonomous&logoColor=white) ![Adaptive AUTOSAR](https://img.shields.io/badge/-Adaptive%20AUTOSAR-00599C?logo=autonomous&logoColor=white)
+- **Tools:** ![MATLAB](https://img.shields.io/badge/-MATLAB-E74C3C?logo=matlab&logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-E74C3C?logo=matlab&logoColor=white) ![GNU](https://img.shields.io/badge/-GNU-000000?logo=gnu&logoColor=white) ![GDB](https://img.shields.io/badge/-GDB-000000?logo=gdb&logoColor=white) ![MS Office](https://img.shields.io/badge/-MS%20Office-0078D4?logo=microsoft-office&logoColor=white)
+- **Technologies:** ![AVR](https://img.shields.io/badge/-AVR-00599C?logo=arduino&logoColor=white) ![ARM Cortex](https://img.shields.io/badge/-ARM%20Cortex%20M3%2F4-00599C?logo=arm&logoColor=white) ![RTOS](https://img.shields.io/badge/-RTOS-00599C?logo=linux&logoColor=white) ![CAN Protocol](https://img.shields.io/badge/-CAN%20Protocol-00599C?logo=c&logoColor=white) ![Classical AUTOSAR](https://img.shields.io/badge/-Classical%20AUTOSAR-00599C?logo=autonomous&logoColor=white) ![Adaptive AUTOSAR](https://img.shields.io/badge/-Adaptive%20AUTOSAR-00599C?logo=autonomous&logoColor=white) ![Linux OS](https://img.shields.io/badge/-Linux%20OS-000000?logo=linux&logoColor=white) ![Buildroot](https://img.shields.io/badge/-Buildroot-000000?logo=buildroot&logoColor=white) ![Multithreading](https://img.shields.io/badge/-Multithreading-00599C?logo=java&logoColor=white)
 
 ## 📚 **Education:**
 - **Cairo University**, BS Electrical Energy & Electronics Engineering (Credit Hour System) 2019 - 2024
@@ -39,19 +39,14 @@
   - Studied Adaptive AUTOSAR, including its history, platform architecture, application types, execution and state management, configuration updates, startup sequences, and relevant POSIX APIs.
 
 ## 🚀 **Projects:**
-- **Graduation Project - Autonomous Mobile Robot using ROS** (GitHub) Oct 2023 – Jun 2024
+- **[Graduation Project - Autonomous Mobile Robot using ROS](https://github.com/mohammedhassan9748/GraduationProject)** Oct 2023 – Jun 2024
   - Developed an Autonomous Mobile Robot (AMR) with advanced path planning, obstacle avoidance, and SLAM Algorithm.
   - Utilized ROS for sensor integration, PID control, and BMS integration.
   - Designed custom LiPo batteries and a React-based web interface for remote control.
 
-## 🛠️ **Skills:**
-- **Programming Languages:** C, C++, Embedded C, Python, ARM Assembly
-- **Software Development:** Data Structures, OOP, Design Patterns, State Machine, UML Design, Git
-- **Embedded Systems:** MCU Interfacing, ARM Cortex M3/4, RTOS, CAN, LIN, Ethernet, GNU, GDB
-- **Robotics and Automation:** ROS, MATLAB, MATLAB Simulink
-- **Linux OS:** Linux Administration, Linux File IO, Time & Sockets, Buildroot, Multithreading
-- **Tools and Utilities:** MS Office
-- **Spoken Languages:** English (Fluent), Arabic (Native), German (Intermediate)
+- **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
+  - Implemented motor control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
+  - Includes Atmel Studio code and project illustration video.
 
 ## 💼 **Experience:**
 - **Siemens Industrial | Automation Engineer Intern** (Certificate) Jul 2023 - Sep 2023
