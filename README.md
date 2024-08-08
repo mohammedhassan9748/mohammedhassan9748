@@ -41,7 +41,7 @@
 ## 🚀 **Projects:**
 - **[Student Management System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%202)** 
   - A versatile application developed in C for managing student records using a FIFO data structure, with a comprehensive analysis of the codebase and functionalities.
-  - 
+
 - **[Case Study: Pressure Controller System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%201)** 
   - Examines a pressure controller system designed to alert the cabin crew when cabin pressure exceeds 20 bars with an alarm duration of 60 seconds and optional tracking of measured values.
  
