@@ -53,6 +53,10 @@
 
 - **[AUTOSAR Implementation](https://github.com/mohammedhassan9748/AUTOSAR)** 
   - Implementation and study of Classical and Adaptive AUTOSAR architectures and components.
+ 
+- **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
+- Implemented motor control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
+- Includes Atmel Studio code and project illustration video.
 
 ## 💼 **Experience:**
 - **Siemens Industrial | Automation Engineer Intern** (Certificate) Jul 2023 - Sep 2023
