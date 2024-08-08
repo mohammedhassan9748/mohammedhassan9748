@@ -39,14 +39,20 @@
   - Studied Adaptive AUTOSAR, including its history, platform architecture, application types, execution and state management, configuration updates, startup sequences, and relevant POSIX APIs.
 
 ## 🚀 **Projects:**
-- **[Graduation Project - Autonomous Mobile Robot using ROS](https://github.com/mohammedhassan9748/GraduationProject)** Oct 2023 – Jun 2024
-  - Developed an Autonomous Mobile Robot (AMR) with advanced path planning, obstacle avoidance, and SLAM Algorithm.
-  - Utilized ROS for sensor integration, PID control, and BMS integration.
-  - Designed custom LiPo batteries and a React-based web interface for remote control.
+- **[Case Study: Pressure Controller System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%201)** 
+  - Examines a pressure controller system designed to alert the cabin crew when cabin pressure exceeds 20 bars with an alarm duration of 60 seconds and optional tracking of measured values.
 
-- **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
-  - Implemented motor control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
-  - Includes Atmel Studio code and project illustration video.
+- **[Student Management System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/First_Term_Projects/Project%202)** 
+  - A versatile application developed in C for managing student records using a FIFO data structure, with a comprehensive analysis of the codebase and functionalities.
+
+- **[CAN Protocol Case Study](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/CAN%20Protocol/Case%20Study%204%20_%20CANoe)** 
+  - Detailed case study of CAN protocol simulations using CANoe.
+
+- **[Graduation Project - Autonomous Mobile Robot using ROS](https://github.com/mohammedhassan9748/GraduationProject)** 
+  - Developed an Autonomous Mobile Robot (AMR) with advanced path planning, obstacle avoidance, and SLAM Algorithm using ROS, including custom LiPo batteries and a React-based web interface for remote control.
+
+- **[AUTOSAR Implementation](https://github.com/mohammedhassan9748/AUTOSAR)** 
+  - Implementation and study of Classical and Adaptive AUTOSAR architectures and components.
 
 ## 💼 **Experience:**
 - **Siemens Industrial | Automation Engineer Intern** (Certificate) Jul 2023 - Sep 2023
