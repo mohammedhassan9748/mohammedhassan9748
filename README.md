@@ -48,7 +48,7 @@
 - **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
   - Implemented motor power and speed control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
 
-- **[CAN Protocol Case Study](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/CAN%20Protocol/Case%20Study%204%20_%20CANoe)** 
+- **[CAN Protocol Case Study](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_13_Mastering_CAN_Protocol/Case%20Study%204%20_%20CANoe)** 
   - Detailed case study of CAN protocol simulations using CANoe.
 
 - **[Graduation Project - Autonomous Mobile Robot using ROS](https://github.com/mohammedhassan9748/GraduationProject)** 
