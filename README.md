@@ -23,16 +23,16 @@
 - **[Student Management System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_5_First_Term_Projects/Project%202)** 
   - A versatile application developed in C for managing student records using a FIFO data structure, with a comprehensive analysis of the codebase and functionalities.
 
-- **[Case Study: Pressure Controller System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_5_First_Term_Projects/Project%201)** 
+- **[Pressure Controller System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_5_First_Term_Projects/Project%201)** 
   - Examines a pressure controller system designed to alert the cabin crew when cabin pressure exceeds 20 bars with an alarm duration of 60 seconds and optional tracking of measured values.
  
 - **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/IoT-MotorControl-MobileApp)**
   - Implemented motor power and speed control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
 
-- **[CAN Protocol Case Study](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_13_Mastering_CAN_Protocol/Case%20Study%204%20_%20CANoe)** 
-  - Detailed case study of CAN protocol simulations using CANoe.
+- **[Car Speed Pedal Emulator](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_13_Mastering_CAN_Protocol/Case%20Study%204%20_%20CANoe)** 
+  - Car Speed Pedal Emulator is detailed case study of CAN protocol simulations using CANoe.
 
-- **[Graduation Project - Autonomous Mobile Robot using ROS](https://github.com/mohammedhassan9748/GraduationProject)** 
+- **[Autonomous Mobile Robot using ROS - Graduation Project](https://github.com/mohammedhassan9748/GraduationProject)** 
   - Developed an Autonomous Mobile Robot (AMR) with advanced path planning, obstacle avoidance, and SLAM Algorithm using ROS, including custom LiPo batteries and a React-based web interface for remote control.
 
 - **[AUTOSAR Implementation](https://github.com/mohammedhassan9748/AUTOSAR)** 
