@@ -45,7 +45,7 @@
 - **[Case Study: Pressure Controller System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_5_First_Term_Projects/Project%201)** 
   - Examines a pressure controller system designed to alert the cabin crew when cabin pressure exceeds 20 bars with an alarm duration of 60 seconds and optional tracking of measured values.
  
-- **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/MotorPowerSpeedControl)** (GitHub)
+- **[Motor Power and Speed Control](https://github.com/mohammedhassan9748/IoT-MotorControl-MobileApp)** (GitHub)
   - Implemented motor power and speed control using an ATmega32P MCU, Blynk mobile app, and ESP for Wi-Fi.
 
 - **[CAN Protocol Case Study](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_13_Mastering_CAN_Protocol/Case%20Study%204%20_%20CANoe)** 
