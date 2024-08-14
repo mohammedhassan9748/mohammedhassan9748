@@ -19,25 +19,6 @@
 - **Cairo University**, BS Electrical Energy & Electronics Engineering (Credit Hour System) 2019 - 2024
   - Overall Grade: Excellent (GPA: 3.6/4.0, Distinct Honors)
 
-## 📖 **Courses:**
-- **Classical AUTOSAR Fundamentals – Siemens EDA** Jul 2024 – Present
-  - AUTOSAR SW Application Layer: SWCs, Runnables, RTE, ARXML, and practical development sessions.
-  - AUTOSAR OS: In-depth knowledge, OS configuration, task scheduling, and event handling.
-  - AUTOSAR Communication Stack: Communication module, PduR, I-PduM, CAN TP, and CAN IF.
-  - AUTOSAR Diagnostic and Bootloader: Diagnostic services, bootloader implementation, and testing.
-
-- **Complete Modern C++ (C++11/14/17) Course** Jun 2024 – Jul 2024
-  - Mastered C++ as an object-oriented language, applying Modern C++ features, STL components, and writing real-world applications while learning function and class templates.
-
-- **Learn in Depth Embedded Systems Diploma (GitHub)** Jun 2023 – Jul 2024
-  - Covered advanced topics in C/C++ programming, Embedded C, data structures, and architecture design.
-  - Developed Linker, Startup code, and Makefile configurations from scratch.
-  - Proficiency in microcontroller peripherals: GPIO, RCC, EXTI, UART, SPI, I2C, TIMERS, ADC.
-  - Specialized in automotive communication protocols such as CAN and developed simulations using CANoe.
-  - Expertise in Real-Time Operating Systems (RTOS) and their application in embedded systems.
-  - Created a custom RTOS scheduler tailored to specific application requirements.
-  - Studied Adaptive AUTOSAR, including its history, platform architecture, application types, execution and state management, configuration updates, startup sequences, and relevant POSIX APIs.
-
 ## 🚀 **Projects:**
 - **[Student Management System](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_5_First_Term_Projects/Project%202)** 
   - A versatile application developed in C for managing student records using a FIFO data structure, with a comprehensive analysis of the codebase and functionalities.
@@ -56,6 +37,25 @@
 
 - **[AUTOSAR Implementation](https://github.com/mohammedhassan9748/AUTOSAR)** 
   - Implementation and study of Classical and Adaptive AUTOSAR architectures and components.
+
+## 📖 **Courses:**
+- **Classical AUTOSAR Fundamentals – Siemens EDA** Jul 2024 – Present
+  - AUTOSAR SW Application Layer: SWCs, Runnables, RTE, ARXML, and practical development sessions.
+  - AUTOSAR OS: In-depth knowledge, OS configuration, task scheduling, and event handling.
+  - AUTOSAR Communication Stack: Communication module, PduR, I-PduM, CAN TP, and CAN IF.
+  - AUTOSAR Diagnostic and Bootloader: Diagnostic services, bootloader implementation, and testing.
+
+- **Complete Modern C++ (C++11/14/17) Course** Jun 2024 – Jul 2024
+  - Mastered C++ as an object-oriented language, applying Modern C++ features, STL components, and writing real-world applications while learning function and class templates.
+
+- **Learn in Depth Embedded Systems Diploma (GitHub)** Jun 2023 – Jul 2024
+  - Covered advanced topics in C/C++ programming, Embedded C, data structures, and architecture design.
+  - Developed Linker, Startup code, and Makefile configurations from scratch.
+  - Proficiency in microcontroller peripherals: GPIO, RCC, EXTI, UART, SPI, I2C, TIMERS, ADC.
+  - Specialized in automotive communication protocols such as CAN and developed simulations using CANoe.
+  - Expertise in Real-Time Operating Systems (RTOS) and their application in embedded systems.
+  - Created a custom RTOS scheduler tailored to specific application requirements.
+  - Studied Adaptive AUTOSAR, including its history, platform architecture, application types, execution and state management, configuration updates, startup sequences, and relevant POSIX APIs.
 
 ## 💼 **Experience:**
 - **Siemens Industrial | Automation Engineer Intern** (Certificate) Jul 2023 - Sep 2023
