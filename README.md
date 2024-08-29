@@ -32,6 +32,9 @@
 - **[Car Speed Pedal Emulator](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_13_Mastering_CAN_Protocol/Case%20Study%204%20_%20CANoe)** 
   - Car Speed Pedal Emulator is detailed case study of CAN protocol simulations using CANoe.
 
+- **[MYRTOS - Custom RTOS for Cortex-M MCU](https://github.com/mohammedhassan9748/Embedded-Diploma/tree/main/Unit_15_RTOS_My_Own_Custom_Scheduler)**
+  - A custom Real-Time Operating System (RTOS) designed for ARM Cortex-M microcontrollers, featuring a priority-based preemptive scheduler with round-robin scheduling for tasks of equal priority.
+
 - **[Autonomous Mobile Robot using ROS - Graduation Project](https://github.com/mohammedhassan9748/GraduationProject)** 
   - Developed an Autonomous Mobile Robot (AMR) with advanced path planning, obstacle avoidance, and SLAM Algorithm using ROS, including custom LiPo batteries and a React-based web interface for remote control.
 
